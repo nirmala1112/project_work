@@ -1,0 +1,3 @@
+empid,ename
+IND100,AMIT
+IND101,SRI
